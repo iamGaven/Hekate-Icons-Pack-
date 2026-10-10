@@ -1,0 +1,1 @@
+![Icon preview](preview.png)
